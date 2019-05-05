@@ -4,6 +4,7 @@ SHOP_ADDON_ERROR_NOT_ENOUGH_MONEY = Not enough %d$
 SHOP_ADDON_ERROR_PLAYER_DEAD = You can't buy this item, you're dead
 SHOP_ADDON_ERROR_PLAYER_ALIVE = You can't buy this item, you're alive
 SHOP_ADDON_LOG_BUY = %n (<%s> <%s>) --> "%s" (%d$). Money: before %d$ after %d$
+SHOP_ADDON_CVAR_LOGS = Log the purchases of the players
 
 [es]
 SHOP_ADDON_ERROR_BLOCKED = ¡La tienda está bloqueada!
@@ -11,6 +12,7 @@ SHOP_ADDON_ERROR_NOT_ENOUGH_MONEY = Te falta %d$
 SHOP_ADDON_ERROR_PLAYER_DEAD = No lo puedes comprar, estás muerto
 SHOP_ADDON_ERROR_PLAYER_ALIVE = No lo puedes comprar, estás vivo
 SHOP_ADDON_LOG_BUY = %n (<%s> <%s>) --> "%s" (%d$). Dinero: antes %d$ después %d$
+SHOP_ADDON_CVAR_LOGS = Loguear las compras de los jugadores
 
 [ru]
 SHOP_ADDON_ERROR_BLOCKED = Магазин заблокирован!
@@ -18,3 +20,4 @@ SHOP_ADDON_ERROR_NOT_ENOUGH_MONEY = Не хватает %d$
 SHOP_ADDON_ERROR_PLAYER_DEAD = Вы не можете купить это, Вы мертвы
 SHOP_ADDON_ERROR_PLAYER_ALIVE = Вы не можете купить это, Вы живы
 SHOP_ADDON_LOG_BUY = %n (<%s> <%s>) --> "%s" (%d$). Баланс: было %d$ стало %d$
+SHOP_ADDON_CVAR_LOGS = Логирование покупки игроков
